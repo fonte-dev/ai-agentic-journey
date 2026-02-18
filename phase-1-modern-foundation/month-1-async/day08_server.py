@@ -1,3 +1,8 @@
+# Day 8 - HTTP Requests
+# Learning goal: The Agent's ability to reach the outside world.
+# Date: Feb 2026
+# Status: Done ✅
+
 import asyncio
 from fastapi import FastAPI
 import uvicorn

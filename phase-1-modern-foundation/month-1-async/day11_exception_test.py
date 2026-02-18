@@ -1,3 +1,8 @@
+# Day 11 - Error Handling (return_exceptions=True)
+# Learning goal: Resilience: Ensuring one failure doesn't crash the whole application.
+# Date: Feb 2026
+# Status: Done ✅
+
 import asyncio
 import httpx
 

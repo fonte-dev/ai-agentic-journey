@@ -1,3 +1,8 @@
+# Day 13 - Context Managers (Safe - Right Way)
+# Learning goal: Resource management (opening/closing sessions properly).
+# Date: Feb 2026
+# Status: Done ✅
+
 import asyncio
 import httpx
 

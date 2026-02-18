@@ -1,3 +1,8 @@
+# Day 14 - Async Scraper (Agent)
+# Learning goal: Master asyncio.gather(), httpx, and file I/O with async
+# Date: Feb 2026
+# Status: Working ✅
+
 # 1. Scope: Scrape Patient IDs 1 to 100.
 # 2. Concurrency: Use a Semaphore of 10. (Don't DDOS the hospital).
 # 3. Resilience:

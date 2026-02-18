@@ -1,3 +1,8 @@
+# Day 2 - AsyncIO
+# Learning goal: Non-blocking syntax.
+# Date: Feb 2026
+# Status: Done ✅
+
 import asyncio
 
 

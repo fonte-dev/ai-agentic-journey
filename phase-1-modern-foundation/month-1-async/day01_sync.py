@@ -1,3 +1,8 @@
+# Day 1 - Sync time.sleep
+# Learning goal: Baseline for synchronous (blocking) behavior.
+# Date: Feb 2026
+# Status: Done ✅
+
 import time
 
 

@@ -1,3 +1,8 @@
+# Day 12 (Extra) - Parse HTML
+# Learning goal: How to use BeautifulSoup to parse HTML
+# Date: Feb 2026
+# Status: Done ✅
+
 from bs4 import BeautifulSoup
 
 html_content = """

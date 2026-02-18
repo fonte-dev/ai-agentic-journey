@@ -1,3 +1,8 @@
+# Day 9 - Concurrency at Scale
+# Learning goal: Realizing the speed difference (seconds vs milliseconds).
+# Date: Feb 2026
+# Status: Done ✅
+
 import asyncio
 import httpx
 import time

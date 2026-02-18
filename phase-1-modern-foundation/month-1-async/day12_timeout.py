@@ -1,3 +1,8 @@
+# Day 12 - Timeouts
+# Learning goal: Boundaries: Setting strict time limits on interactions.
+# Date: Feb 2026
+# Status: Done ✅
+
 import asyncio
 import httpx
 import time

@@ -1,3 +1,8 @@
+# Day 10 - Semaphores (Rate Limiting)
+# Learning goal: Preventing the system from overwhelming external services.
+# Date: Feb 2026
+# Status: Done ✅
+
 import asyncio
 import httpx
 import time

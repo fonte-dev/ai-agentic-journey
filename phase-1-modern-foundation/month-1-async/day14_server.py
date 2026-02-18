@@ -1,3 +1,8 @@
+# Day 14 - Async Scraper (Server)
+# Learning goal: Master asyncio.gather(), httpx, and file I/O with async
+# Date: Feb 2026
+# Status: Working ✅
+
 import asyncio
 import random
 from fastapi import FastAPI, HTTPException

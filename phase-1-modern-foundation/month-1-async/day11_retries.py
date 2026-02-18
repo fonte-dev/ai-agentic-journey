@@ -1,3 +1,8 @@
+# Day 11 - Error Handling
+# Learning goal: Resilience: Ensuring one failure doesn't crash the whole application.
+# Date: Feb 2026
+# Status: Done ✅
+
 import asyncio
 import httpx
 import time

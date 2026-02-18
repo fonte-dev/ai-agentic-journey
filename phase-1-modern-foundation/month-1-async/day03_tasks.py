@@ -1,3 +1,8 @@
+# Day 3 - The Event Loop
+# Learning goal: Understanding the "Scheduler" concept (The Triage Nurse).
+# Date: Feb 2026
+# Status: Done ✅
+
 import asyncio
 import time
 

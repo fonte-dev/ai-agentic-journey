@@ -1,3 +1,8 @@
+# Day 6 - Blocking the Loop
+# Learning goal: Understanding how one blocking action freezes the whole system.
+# Date: Feb 2026
+# Status: Done ✅
+
 import asyncio
 import time  # <--- The enemy
 

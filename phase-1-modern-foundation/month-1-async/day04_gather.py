@@ -1,3 +1,8 @@
+# Day 4 - Gathering Tasks
+# Learning goal: Code runs in the time of the slowest task, not the sum of all tasks.
+# Date: Feb 2026
+# Status: Done ✅
+
 import asyncio
 import time
 
