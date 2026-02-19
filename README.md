@@ -77,8 +77,24 @@ Then explore `phase-1-modern-foundation/month-1-async/` — start with the Async
 
 ---
 
-### My bigger goal
-By the end of 2026 I want to have shipped a real **HealthTech agent** (Project MERITUM) that helps doctors with session notes, research, and compliance — all grounded, evolvable, and production-ready.
+### My bigger goal — Project MERITUM
+
+I’m building **MERITUM**: Argentina’s first meritocratic marketplace for Acompañantes Terapéuticos (ATs).
+
+Three sides, one platform:
+- Families / people with disabilities (verified via CUD)
+- Acompañantes Terapéuticos (with transparent reports, receipts and performance ratings)
+- Obras Sociales (OS) — automatic paperwork, payment tracking and compliance
+
+A rating + review system will finally reward the best ATs, the most respectful families and the most responsible OS.  
+No more “everyone gets paid the same” — excellence will rise to the top.
+
+Later phases will use LLMs to automate bureaucracy: session note summaries, report generation, delay alerts, transparency dashboards — all while keeping full data privacy and legal compliance.
+
+This is personal. After years as an AT I’ve lived the instability, late payments, mistreatment and lack of recognition. MERITUM will fix it — and then expand to the entire health sector.
+
+Status: Research & planning phase. First MVP will be built in Phase 3 (2026) once my agentic stack is production-ready.
+
 Want to follow along? Star the repo ⭐ or reach out!
 
 ---
