@@ -1,7 +1,7 @@
-# Day 14 - Async Scraper (Server)
-# Learning goal: Master asyncio.gather(), httpx, and file I/O with async
+# Day 14 - Async Patient Record Scraper (Server)
+# Learning goal: Master asyncio.gather(), httpx, resilience patterns and async file I/O
 # Date: Feb 2026
-# Status: Working ✅
+# Status: Done ✅
 
 import asyncio
 import random
