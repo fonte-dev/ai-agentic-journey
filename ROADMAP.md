@@ -3,8 +3,8 @@
 **Made with Gemini's Deep Research**  
 **Custom for my HealthTech goals (Project MERITUM)**
 
-**Status:** Day 14 / Phase 1 (Modern Foundation) – Async Scraper complete ✅  
-**Next milestone:** Finish Month 1 (Triage Simulation) by end of February
+**Status:** Month 1 COMPLETE ✅ (Triage Simulation shipped)  
+**Next milestone:** Start Month 2 – Structure & Validation (Pydantic)
 
 This is my public 18-month learning journey from Python beginner → production-ready Agentic AI Engineer.  
 Everything is built around real 2026 needs: async-first, structured outputs, local-first (Ollama), domain grounding, and rigorous evals.

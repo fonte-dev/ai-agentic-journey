@@ -8,8 +8,8 @@
 ![Ollama](https://img.shields.io/badge/Local%20LLMs-Ollama-purple?style=flat)
 ![Status](https://img.shields.io/badge/Status-Day%2014%20of%2090-brightgreen?style=flat)
 
-**Currently:** Day 14 / Phase 1 (Modern Foundation) — Async Scraper + Triage Simulation complete ✅  
-**Goal:** Build production-grade agentic systems for **HealthTech** (Project MERITUM)
+**Currently:** Month 1 COMPLETE ✅ — Async Scraper + Full Triage Simulation (PriorityQueue, graceful shutdown, real-time stats)
+**Next milestone:** Month 2 (Pydantic v2 + Medical Intake Validator)
 
 ---
 
