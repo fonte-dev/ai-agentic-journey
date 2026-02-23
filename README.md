@@ -8,8 +8,8 @@
 ![Ollama](https://img.shields.io/badge/Local%20LLMs-Ollama-purple?style=flat)
 ![Status](https://img.shields.io/badge/Status-Day%2014%20of%2090-brightgreen?style=flat)
 
-**Currently:** Month 1 COMPLETE ✅ — Async Scraper + Full Triage Simulation (PriorityQueue, graceful shutdown, real-time stats)
-**Next milestone:** Month 2 (Pydantic v2 + Medical Intake Validator)
+**Currently:** Month 2 in progress (Day 34/90) — Pydantic models, Field metadata, strict validation for MERITUM intake forms  
+**Next milestone:** Finish Month 2 (Medical Intake Validator CLI) by mid-March
 
 ---
 
@@ -46,8 +46,9 @@ ai-agentic-journey/
 ├── README.md                  ← You are here
 ├── ROADMAP.md                 ← Full 90-day curriculum + high-level plan
 ├── phase-1-modern-foundation/
-│   ├── month-1-async/         ← Days 1–30 (current work)
-│   ├── month-2-pydantic/
+│   ├── month-1-async/         ← Days 1–30 (Month 1 COMPLETE ✅)
+│   │   └── triage-simulation/ ← Triage Simulation (Month 1 Capstone ✅)
+│   ├── month-2-pydantic/      ← Days 31–60 (current work — Pydantic mastery)
 │   └── month-3-llm-primitive/
 ├── docs/
 └── .gitignore
@@ -99,8 +100,8 @@ Want to follow along? Star the repo ⭐ or reach out!
 
 ---
 
-**Last updated:** February 18, 2026
-**Made with curiosity and discipline** — Juan Pablo (fonte-dev)
+**Last updated:** February 23, 2026  
+**Built with curiosity and discipline** — Juan Pablo (fonte-dev)
 
 ---
 
