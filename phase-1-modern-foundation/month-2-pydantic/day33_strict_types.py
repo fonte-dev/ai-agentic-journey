@@ -5,7 +5,7 @@
 # Status: DONE ✅
 
 
-from pydantic import BaseModel, Field, ValidationError, ConfigDict
+from pydantic import BaseModel, ValidationError, ConfigDict
 from typing import Literal, Any
 
 
